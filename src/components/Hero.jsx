@@ -24,7 +24,7 @@ export default function Hero({ profile }) {
           >
             <div className="inline-flex items-center px-4 py-1.5 rounded-full border border-white/10 bg-white/5 backdrop-blur-xl text-xs sm:text-sm font-medium text-blue-300 tracking-[0.2em] shadow-[0_0_30px_rgba(59,130,246,0.15)] uppercase">
               <span className="w-1.5 h-1.5 rounded-full bg-blue-400 mr-2 animate-pulse" />
-              Available for Hire
+              Open to work globally
             </div>
           </motion.div>
         )}
