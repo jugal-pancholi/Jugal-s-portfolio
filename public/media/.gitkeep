@@ -1,0 +1,6 @@
+# Drop your media files here
+# Supported formats: .mp4, .webm, .mov, .gif
+#
+# Example usage in portfolio.json:
+#   "mediaType": "video",  "src": "/media/my-clip.mp4"
+#   "mediaType": "gif",    "src": "/media/my-preview.gif"

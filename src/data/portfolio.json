@@ -1,0 +1,179 @@
+{
+  "profile": {
+    "name": "Jugal Pancholi",
+    "title": "Cinematic Video Editor",
+    "tagline": "Turning raw footage into visual stories — with style, precision, and a touch of cinematic magic.",
+    "availableForHire": true,
+    "email": "hello@yourname.com",
+    "location": "Available Worldwide",
+    "bio": "I'm a passionate video editor specializing in cinematic storytelling, motion graphics, and content that captivates audiences. With years of experience working with YouTube creators, brands, and educators, I transform raw footage into polished, engaging videos that drive results.",
+    "stats": [
+      { "label": "Projects Completed", "value": "150+" },
+      { "label": "Happy Clients", "value": "50+" },
+      { "label": "Years Experience", "value": "5+" }
+    ],
+    "social": {
+      "youtube": "https://youtube.com/@yourchannel",
+      "instagram": "https://instagram.com/yourhandle",
+      "linkedin": "https://linkedin.com/in/yourprofile",
+      "twitter": "https://twitter.com/yourhandle"
+    }
+  },
+  "categories": ["All", "Long video", "Short video", "AI video"],
+  "videos": [
+    {
+      "id": "dQw4w9WgXcQ",
+      "title": "Brand Promo Video — Cinematic Edit",
+      "description": "A high-energy promotional video with dynamic cuts, color grading, and motion graphics overlays.",
+      "youtubeId": "dQw4w9WgXcQ",
+      "category": ["Short video"],
+      "duration": "1:30",
+      "client": "Sample Brand",
+      "date": "2025-01-15",
+      "software": ["DaVinci Resolve", "After Effects"],
+      "featured": true
+    },
+    {
+      "id": "jNQXAC9IVRw",
+      "title": "YouTube Talking Head — Retention Optimized",
+      "description": "Engaging talking head edit with B-roll, zoom cuts, and sound design optimized for viewer retention.",
+      "youtubeId": "jNQXAC9IVRw",
+      "category": ["Long video"],
+      "duration": "8:45",
+      "client": "Content Creator",
+      "date": "2025-02-20",
+      "software": ["DaVinci Resolve"],
+      "featured": true
+    },
+    {
+      "id": "9bZkp7q19f0",
+      "title": "Motion Graphics Explainer",
+      "description": "Clean animated explainer with custom graphics, kinetic typography, and smooth transitions.",
+      "youtubeId": "9bZkp7q19f0",
+      "category": ["Short video"],
+      "duration": "2:15",
+      "client": "Tech Startup",
+      "date": "2025-03-10",
+      "software": ["After Effects", "Premiere Pro"],
+      "featured": true
+    },
+    {
+      "id": "kJQP7kiw5Fk",
+      "title": "Social Media Short — Viral Edit",
+      "description": "Fast-paced vertical short with trending transitions, captions, and sound sync.",
+      "youtubeId": "kJQP7kiw5Fk",
+      "category": ["Short video"],
+      "duration": "0:58",
+      "client": "Influencer",
+      "date": "2025-04-05",
+      "software": ["CapCut", "After Effects"],
+      "featured": false
+    },
+    {
+      "id": "RgKAFK5djSk",
+      "title": "Documentary Style — Brand Story",
+      "description": "Emotional documentary-style edit with cinematic color grade and ambient sound design.",
+      "youtubeId": "RgKAFK5djSk",
+      "category": ["Long video"],
+      "duration": "4:20",
+      "client": "Non-Profit Org",
+      "date": "2025-05-12",
+      "software": ["DaVinci Resolve"],
+      "featured": false
+    },
+    {
+      "id": "fJ9rUzIMcZQ",
+      "title": "Product Launch — Motion Promo",
+      "description": "Sleek product launch video with 3D elements, particle effects, and premium color grading.",
+      "youtubeId": "fJ9rUzIMcZQ",
+      "category": ["Short video"],
+      "duration": "1:45",
+      "client": "E-Commerce Brand",
+      "date": "2025-06-01",
+      "software": ["After Effects", "Blender"],
+      "featured": false
+    },
+    {
+      "id": "local-clip-01",
+      "title": "Local Video Clip — No YouTube Needed",
+      "description": "Drop your MP4/WebM file in public/media/ and reference it here. Perfect for client work you can't publish on YouTube.",
+      "mediaType": "video",
+      "src": "/media/my-clip.mp4",
+      "thumbnail": "/media/my-clip-thumb.jpg",
+      "category": ["Short video"],
+      "duration": "0:30",
+      "client": "Private Client",
+      "date": "2025-07-01",
+      "software": ["DaVinci Resolve"],
+      "featured": false,
+      "loop": false
+    },
+    {
+      "id": "local-gif-01",
+      "title": "Animated GIF Preview",
+      "description": "GIFs auto-play on the card — great for showing motion graphics snippets or before/after edits.",
+      "mediaType": "gif",
+      "src": "/media/my-preview.gif",
+      "category": ["Short video"],
+      "duration": "0:05",
+      "client": "Brand Client",
+      "date": "2025-07-15",
+      "software": ["After Effects"],
+      "featured": false
+    },
+    {
+      "id": "ai-video-01",
+      "title": "AI-Generated Video Edit",
+      "description": "Sample AI video project — replace with your own AI-edited or AI-assisted content.",
+      "mediaType": "video",
+      "src": "/media/ai-sample.mp4",
+      "thumbnail": "/media/ai-sample-thumb.jpg",
+      "category": ["AI video"],
+      "duration": "1:00",
+      "client": "AI Project",
+      "date": "2025-08-01",
+      "software": ["Runway", "DaVinci Resolve"],
+      "featured": true
+    }
+  ],
+  "services": [
+    {
+      "icon": "🎬",
+      "title": "YouTube Editing",
+      "description": "Engaging edits optimized for retention with perfect pacing and dynamic cuts."
+    },
+    {
+      "icon": "📚",
+      "title": "Course Content",
+      "description": "Clear, educational content with professional polish and engaging visuals."
+    },
+    {
+      "icon": "✨",
+      "title": "Motion Graphics",
+      "description": "Eye-catching animations and kinetic typography that enhance your storytelling."
+    },
+    {
+      "icon": "🎨",
+      "title": "Color Grading",
+      "description": "Cinematic looks that give your videos a premium, film-quality feel."
+    },
+    {
+      "icon": "🏷️",
+      "title": "Logo Animation",
+      "description": "Professional branding elements and intros that make you stand out."
+    },
+    {
+      "icon": "🎵",
+      "title": "Audio Engineering",
+      "description": "Crystal clear audio mix with noise reduction and sound design."
+    }
+  ],
+  "tools": [
+    "DaVinci Resolve",
+    "Adobe Premiere Pro",
+    "After Effects",
+    "Adobe Photoshop",
+    "Adobe Audition",
+    "CapCut"
+  ]
+}
